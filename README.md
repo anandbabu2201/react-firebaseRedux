@@ -14,3 +14,13 @@ password : - password
 Demo of app
 
 https://reactclientpanel-3d4e6.firebaseapp.com/login?redirect=%2F
+
+
+# Install dependencies
+npm install
+
+# Serve on localhost:3000
+npm start
+
+# Build for production
+npm run build
